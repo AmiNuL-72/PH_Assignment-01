@@ -1,4 +1,4 @@
-<!-- ------ Prompt 01 -------  -->
+------ Prompt 01 -------  
 
 I have completed a DevConf 2026 landing page with the following sections:
 
@@ -16,12 +16,12 @@ Requirements:
 - Use only HTML and CSS (no JavaScript).
 - Keep the code beginner-friendly and well organized.
 
-<!-- ----------------------- -->
+ ----------------------- 
 
 **// Then after reviewing several AI-generated ideas, I selected the "Live Coding Challenge Arena" concept because it best matched the DevConf 2026 theme and the overall design of my website. I then provided a second prompt with detailed requirements to generate the final section.
 
 
-<!-- ------ Prompt 02 ------- -->
+-- ------ Prompt 02 ------- --
 
 Now Generate a "Live Coding Challenge Arena" section for my DevConf 2026 landing page.
 
@@ -34,3 +34,5 @@ Requirements:
 - Include a clear call-to-action button.
 - Reuse the same design style, colors, spacing, and button style as the rest of the website.
 - Use only beginner-friendly HTML and CSS (no JavaScript).
+
+------------------------------
