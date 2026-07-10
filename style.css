@@ -27,14 +27,15 @@ img{
     border-color: #1D4ED8;
     cursor: pointer;
 }
-/* .main_container{
+.main_container{
     max-width: 1200px;
     margin: auto;
-} */
+}
 
 header .outside{
     color: #b9b8b898;
     background-color: black;
+    font-size: 12px;
 }
 
 /* Navbar Sectiion Start */
@@ -52,7 +53,7 @@ nav{
     gap: 20px;
 }
 .nav_content .b{
-    font-weight: 500;
+    font-weight: 530;
 }
 
 /* Navbar Sectiion End */
@@ -91,3 +92,53 @@ nav{
 }
 
 /* Banner Section ENd */
+
+/* Speaker section start */
+
+.speakers_container{
+    margin: 120px auto;
+}
+.spk_card{
+    display: grid;
+    grid-template-rows: 2.5fr 1fr;
+    /* border: 1px solid blueviolet;
+    margin: 10px;
+     */
+    border-radius: 7px;
+    border: 1px solid #ddd;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.2);
+}
+.spk_card .card_down h3{
+    color: blue;
+    font-size: 12px;
+    font-weight:500;
+}
+.spk_card .card_down h2{
+    font-size: 20px;
+    padding: 10px 0;
+    font-weight: bold;
+}
+.spk_card .card_down h4{
+    font-size: 14px;
+    font-weight: normal;
+}
+.spk_card .card_down{
+    padding: 15px;
+}
+.speakers_container h1{
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.spk_card img{
+    width: 100%;
+    display: block;
+    border-radius: 7px 7px 0 0;
+}
+.card_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+/* Speaker section End */
