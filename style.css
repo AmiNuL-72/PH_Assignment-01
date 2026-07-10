@@ -172,7 +172,7 @@ nav{
 
 .pricing_card p{
     font-size: 14px;
-    font-weight: 500px;
+    font-weight: 500;
     padding: 10px 0;
 }
 /* #hr01{
@@ -197,7 +197,7 @@ nav{
 }
 .Pcard_contnr{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     gap: 20px;
     /* padding: 0px 60px; */
 }
@@ -220,4 +220,39 @@ nav{
 }
 
 /* Pricing section ENd */
+
+/* Footer section start */
+
+.footer_container{
+    padding: 50px 100px;
+    background-color: #0D1B2A;
+    color: white;
+}
+.footer_top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer_container hr{
+    margin: 30px 0;
+    border: 1px solid #555;
+}
+
+.footer_social a{
+    color: white;
+    font-size: 24px;
+    margin-left: 5px;
+    text-decoration: none;
+}
+.footer_social a:hover{
+    color: #1D4ED8;
+}
+
+.copyright{
+    text-align: center;
+    font-size: 14px;
+}
+
+/* Footer section end */
+
 
