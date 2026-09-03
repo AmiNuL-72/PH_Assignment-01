@@ -54,3 +54,10 @@ Open your terminal/command prompt and run:
 ```bash
 git clone https://github.com/AmiNuL-72/PH_Assignment-01.git
 ```
+### **2. Navigate to the Directory**
+```bash
+cd PH_Assignment-01
+```
+### **3. Open the Project**
+- Double-click on `index.html` to open it in your default web browser.
+- Alternatively, open the directory in **VS Code** and click **Go Live** using the **Live Server** extension.
