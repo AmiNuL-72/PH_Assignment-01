@@ -66,7 +66,7 @@ cd PH_Assignment-01
 
 ## 🔗 Relevant Links
 
-- **Live Site:** [View Live Application](https://your-live-link.com)
+- **Live Site:** [View Live Application](https://aminul-72.github.io/PH_Assignment-01/)
 - **GitHub Profile:** [@AmiNuL-72](https://github.com/AmiNuL-72)
 
 ---
