@@ -61,3 +61,21 @@ cd PH_Assignment-01
 ### **3. Open the Project**
 - Double-click on `index.html` to open it in your default web browser.
 - Alternatively, open the directory in **VS Code** and click **Go Live** using the **Live Server** extension.
+
+---
+
+## 🔗 Relevant Links
+
+- **Live Site:** [View Live Application](https://your-live-link.com)
+- **GitHub Profile:** [@AmiNuL-72](https://github.com/AmiNuL-72)
+
+---
+
+## 👤 Author
+
+**Md Aminul Islam**  
+*CSE Student | Competitive Programmer | Aspiring Full Stack Developer*
+
+- 📧 **Email:** [aminul.cse8.bu@gmail.com](mailto:aminul.cse8.bu@gmail.com)
+- 💼 **LinkedIn:** [Md Aminul Islam](https://www.linkedin.com/in/md-aminul-islam-amin-79360024a/)
+- 🌐 **GitHub:** [@AmiNuL-72](https://github.com/AmiNuL-72)
